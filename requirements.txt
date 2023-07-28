@@ -2,3 +2,4 @@ steamship@git+https://github.com/steamship-core/python-client@ec/fix-youtube-imp
 langchain==0.0.200
 scrapetube
 pytube
+pyngrok
